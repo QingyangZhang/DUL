@@ -1,0 +1,11 @@
+conda
+numpy
+pandas
+Pillow
+scikit-image
+scikit-learn
+scipy
+torch
+torchaudio
+torchvision
+tqdm
