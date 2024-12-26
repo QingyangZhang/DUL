@@ -2,8 +2,6 @@
 
 This repo contains the code for our NeurIPS 2024 paper [The Best of Both Worlds: On the Delimma of Out-of-Distribution Detection](https://openreview.net/pdf?id=B9FPPdNmyk). We propose an learning objective for both OOD detection and generalization.
 
-[TOC]
-
 ## Install Requirements
 
 To get started with this repository, you'll need to follow these installation steps. Before proceeding, make sure you have anaconda installed.
